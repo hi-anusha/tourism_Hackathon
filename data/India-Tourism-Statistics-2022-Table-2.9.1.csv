@@ -1,0 +1,84 @@
+Region,Country of Nationality,Total (in Number),Average duration of stay (in days)
+North America,Canada,80437,52.32
+North America,United  States of America,429860,32.48
+North America,Others,2,64
+North America,Total,510299,35
+Central And South America,Argentina,530,56.39
+Central And South America,Brazil,2055,50.07
+Central And South America,Mexico,859,47.86
+Central And South America,Others,3354,46.57
+Central And South America,Total,6798,49
+Western Europe,Austria,4411,29.78
+Western Europe,Belgium,7382,31.2
+Western Europe,Denmark,2025,31.87
+Western Europe,Finland,1329,32.8
+Western Europe,France,30374,29.88
+Western Europe,Germany,33772,24.8
+Western Europe,Greece,1144,20.53
+Western Europe,Ireland,7600,34.69
+Western Europe,Italy,13659,39.36
+Western Europe,Netherlands,15631,19.92
+Western Europe,Norway,2790,32.65
+Western Europe,Portugal,32064,38.58
+Western Europe,Spain,6982,38.01
+Western Europe,Sweden,5579,38.01
+Western Europe,Switzerland,4198,25.83
+Western Europe,United Kingdom,164143,30.44
+Western Europe,Others,1767,26.48
+Western Europe,Total,334850,31
+Eastern Europe,Czech Rep,983,39.79
+Eastern Europe,Hungary,653,33.04
+Eastern Europe,Kazakhstan,2378,16.2
+Eastern Europe,Poland,2461,24.03
+Eastern Europe,Russian Federation,17567,27.45
+Eastern Europe,Ukraine,5197,21.58
+Eastern Europe,Others,13875,25.16
+Eastern Europe,Total,43114,25
+Africa,Egypt,1739,26.07
+Africa,Kenya,13373,33.92
+Africa,Mauritius,2118,47.07
+Africa,Nigeria,5516,53.53
+Africa,South Africa,3820,38.83
+Africa,Sudan,6781,49.03
+Africa,Tanzania,6480,38.63
+Africa,Others,29087,42.93
+Africa,Total,68914,41
+West Asia,Bahrain,1727,46.46
+West Asia,Iraq,16213,26.22
+West Asia,Israel,4601,20.79
+West Asia,Oman,10174,19.21
+West Asia,Saudi Arabia,1088,48.57
+West Asia,Turkey,3710,17.32
+West Asia,United  Arab Emirates,3927,19.47
+West Asia,Yemen,6235,72.61
+West Asia,Others,4499,27.15
+West Asia,Total,52174,29
+South Asia,Afghanistan,36451,22.92
+South Asia,Bangladesh,240554,25.45
+South Asia,Bhutan,6081,31.77
+South Asia,Iran,2369,65
+South Asia,Maldives,26571,22.23
+South Asia,Nepal,52544,24.39
+South Asia,Pakistan,8163,62.21
+South Asia,Sri Lanka,25989,21.58
+South Asia,Total,398722,25
+South East Asia,Indonesia,2105,31.23
+South East Asia,Malaysia,6628,35.91
+South East Asia,Myanmar,3013,60.72
+South East Asia,Philippines,6927,16.31
+South East Asia,Singapore,13407,31.61
+South East Asia,Thailand,4668,71.11
+South East Asia,Vietnam,1104,22.89
+South East Asia,Others,622,102.51
+South East Asia,Total,38474,36
+East Asia,China,3502,98.15
+East Asia,Japan,15358,53.79
+East Asia,Korea(Republic Of),13330,68.03
+East Asia,Others,1572,134.01
+East Asia,Total,33762,63
+Australasia,Australia,33864,47.23
+Australasia,New Zealand,4497,60.16
+Australasia,Others,504,53.25
+Australasia,Total,38865,49
+Not Classified Elsewhere,Not Classified Elsewhere,7,4
+Grand Total,Grand Total,1527114,32.12
