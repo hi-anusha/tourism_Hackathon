@@ -1,0 +1,232 @@
+City Name,Zone Name,Name of heritage,Nature of heritage,Heritage use,Age of heritage (in Years),source_file,Age of heritage (in Years  ),Latitude,Longitude
+Namchi,Namchi,Chardham Solophok,Temple,Monastery,8,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Samdruptse,Monastery,Monastery,15,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Shirdi Sai Mandir,Temple,Temple,9,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Sorok Tamang Monastery,Monastery,Monastery,57,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Ahaley Dechen Choling Monastery,Monastery,Monastery,71,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Ngadak Gumpa,Monastery,Monastery,420,Cultural_Namchi.csv,,27.3031019,88.3785961
+Namchi,Namchi,Rock Garden,Open Space,Recreation,14,Cultural_Namchi.csv,,27.3031019,88.3785961
+Shivamogga,,Bheemeshwara Temple,Monument,Worship Place,Above 300,Cultural_Shivamogga.csv,,13.9326093,75.574978
+Shivamogga,,Kote Aanjaneya Swami Temple,Monument,Worship Place,Above 300,Cultural_Shivamogga.csv,,13.9326093,75.574978
+Shivamogga,,Shivappa Nayak Palace,Monument,Museum,374,Cultural_Shivamogga.csv,,13.9326093,75.574978
+Agra,,RED FORT,MONUMENT,"COURTYARD, PALACE",446,Cultural_Agra.csv,,27.1752554,78.0098161
+Agra,,TAJ MAHAL,MONUMENT,MAUSOLEUM,366,Cultural_Agra.csv,,27.1752554,78.0098161
+Agra,,FATEHPURI SIKRI,MONUMENT,"COURTYARD, PALACE",446,Cultural_Agra.csv,,27.1752554,78.0098161
+Agra,,AKBARS TOMB,TOMB,MAUSOLEUM,406,Cultural_Agra.csv,,27.1752554,78.0098161
+Agra,,ITIMAD-UD-DAULA,TOMB,MAUSOLEUM,391,Cultural_Agra.csv,,27.1752554,78.0098161
+Agra,,MEHTAB GARDEN,OPEN SPACE,GARDEN,367,Cultural_Agra.csv,,27.1752554,78.0098161
+Thanjavur,Thanjavur,Bragadeeswarar Temple,Monuments,Worship,More than 1000years,Cultural_Thanjavur.csv,,10.659037,79.2014278
+Thanjavur,Thanjavur,Palace,Monuments,Kings heritage residence,More than 1000years,Cultural_Thanjavur.csv,,10.659037,79.2014278
+Thanjavur,Thanjavur,Manora,Monuments,Tourist Visit,More than 800years,Cultural_Thanjavur.csv,,10.659037,79.2014278
+Thanjavur,Thanjavur,Old District Collectorate museum,Monuments,Tourist Visit,More than 800years,Cultural_Thanjavur.csv,,10.659037,79.2014278
+Hubli,,Chandramouleshwar temple,monument,Temple,900,Cultural_dharwad.csv,,15.3518378,75.1379848
+Hubli,,banashankari temple ,monument,temple,900,Cultural_dharwad.csv,,15.3518378,75.1379848
+Hubli,,Someshwar temple,monument,temple,1000,Cultural_dharwad.csv,,15.3518378,75.1379848
+Hubli,,Amruteshwar temple,monument,temple,1100,Cultural_dharwad.csv,,15.3518378,75.1379848
+Gwalior,All Zone,Gwalior Fort,"Monuments , Open space",Monuments for Public Visiting,525.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Hathi Pol,"Monuments , Open space",Monuments for Public Visiting,525.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Tomb of Tansen,"Monuments , Open space",Monuments for Public Visiting,500.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Gujari Mahal,"Monuments , Open space",Monuments for Public Visiting,500.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Dev Kho,"Monuments , Open space",Monuments for Public Visiting,300.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Jai Vilas Mahal,"Monuments , Open space",Monuments for Public Visiting,150.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Teli Ka Mandir,Monuments,Monuments for Public Visiting,1300.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Gopachal Parvat,"Monuments , Open space",Monuments for Public Visiting,1300.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Sasbahu Ka Mandir,Monuments,Monuments for Public Visiting,500.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Man Singh Palace,"Monuments , Open space",Monuments for Public Visiting,525.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Sarod Ghar,"Monuments , Open space",Monuments for Public Visiting,,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Jai Vilace Palce,"Monuments , Open space",Monuments for Public Visiting,150.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Gwalior,All Zone,Assi Khamba Ki Baori,Monuments,Monuments for Public Visiting,1300.0,Cultural_Gwalior.csv,,26.2037247,78.1573628
+Saharanpur,NORTH,,,,,Cultural_Saharanpur.csv,,29.9856799,77.5040646
+Saharanpur,SOUTH,,,,,Cultural_Saharanpur.csv,,29.9856799,77.5040646
+Saharanpur,EAST,,,,,Cultural_Saharanpur.csv,,29.9856799,77.5040646
+Saharanpur,WEST,Church,St. Thomas Anglican Church,worship,1822.0,Cultural_Saharanpur.csv,,29.9856799,77.5040646
+Davanagere,,SRI DURGAMBHIKA TEMPLE,Monuments,Worship,200,Cultural_Davanagere.csv,,14.2558835,75.8303421
+PUDUCHERRY,PUDUCHERRY,"Old Administrative building, Dumas Street",Office building,Office building,late 18th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Old Band stand near Nehru Statue, Gandhi thidal",Monument,Monument,Pre 16th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Old Mother Theresa Institute, Campagnie Street",Health Institution,Office building,1909,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Tourism Office, Beach road",Office building,Office building,Mid 20th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Le CafÃ©, Beach road",Restaurant,Customs office,Late 18th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Government Maternity Hospital, Victor Sinonel street",Office building,Office building,Mid 20th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Aye Mandapam, Bharathi park",Monument,Monument,Late 18th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Foyer du Soldat, rue law de lauriston",Museum,Office building,Late 18th to mid 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Pondicherry Museum building, St Louis street",Museum,Museum,Late 18th to mid 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Old Light house, Beach road",Monument,Light House,1836,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Old court building, Beach road",Building,building,1877,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Circle de Pondicherry, Victor Simonel street",Recreation club,Office building,Early 20th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Assembly building, Victor Simonel street",Legislative assembly building,Office building,1820-1830,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,Raj Nivas,Lt Governors Residence,Lt Governors Residence,Late 18th century            1766-1768,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Bharathidasan Museum, Perumal koil street",Museum,Museum,Mid 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Clock towers, Grand bazaar and Bussy street",Monument,Monument,Grand bazar -Early 18th century(1826)                          Bussy street- Early 19 th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Calve college, Mission street",Educational institution,Educational institution,Late 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Soucilabai school, Vysialstreet",Educational institution,Educational institution,Early 20th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"PWD office, Bussy street",Office building,Office building,Late 18th century 1768,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Bharathiar Museum, Iswaran koil street",Museum,Museum,Early 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+PUDUCHERRY,PUDUCHERRY,"Subbaiah saraswathi Memorial, Vellalar street",Museum,Museum,Late 19th century,Cultural_Puducherry.csv,,10.9156489,79.8069488
+ERODE,ZONE 2,ARCHAEOLOGICAL MUSEUM,GOVERNMENT MUSEUM,Heritage Building,35.0,Cultural_Erode.csv,,11.4905281,77.3505274
+ERODE,ZONE 4,MEMORIAL HOUSE, PERIYAR ANNA MEMORIAL HOUSE,Heritage Building,47.0,Cultural_Erode.csv,,11.4905281,77.3505274
+ERODE,ZONE 2,VOC PARK,RECREATIONAL PARK MAINTAINED BY ERODE CITY CORPORATION,Heritage Building,110.0,Cultural_Erode.csv,,11.4905281,77.3505274
+ERODE,ZONE 2,CSI CHURCH,CSI BROUGH MEMORIAL CHURCH ,Heritage Building,92.0,Cultural_Erode.csv,,11.4905281,77.3505274
+ERODE,ZONE 1,ANAICUT (Water Storage Dam),KALINGARAYAN ANAICUT,Picnic Spot,740.0,Cultural_Erode.csv,,11.4905281,77.3505274
+KALYAN-DOMBIVLI,,SHRI RAM MANDIR,TEMPLE,,1812,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,KASHIVISHESWAR MANDIR,TEMPLE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,POKHRAN,KUND,,1760-72,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,TRIVIKRAM MANDIR,TEMPLE,,18th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,GANPATI MANDIR,TEMPLE,,1770-90,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SATHEWADA,RESIDENCE,,1874,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,KASARHAT MANDIR,TEMPLE,,1865-67,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,LAXMINARAYAN MANDIR,TEMPLE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,LAXMI VYANKATESH PRESS,COMMERCIAL ACTIVITY BUILDER,,1894,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DUTT PAR,DUTT MANDIR,,1860,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SIDDHESWAR MANDIR,TEMPLE,,1750,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,MURLIDHAR MANDIR,TEMPLE,,1887,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,PAR -PARNAKA,STONE PLATFORM,,18th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DURGADI FORT,TEMPLE ; FORT,,17th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,BHATALE TALAO -LAKE,LAKE,,17th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,TOWN WALL,OLD TOWN WALL,,1630-95,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,JAMA MASJID,PRAYER HALL,,17th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DOLARE HOUSE,ROW HOUSE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,FANGARI HOUSE,ROW HOUSE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,PARSI AYYARI,STROYED STRUCTURE WITH VERANDAHS,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DHURUWADA,LARGE GROUND ,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,TANKI PALACE,IMPRESSIVE STRUCTURE WITH ARCHED ORNATE FACADE.,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,FALKEWADA,ORNAMENTAL COLUMNS WITH BRACKETS AND MOTIFS ON THE FRONT FACADE.,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SAWARKAR MANDIR,GARBHAGRIHA ; SABHA MANDAP,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DAVE RICE MILL,RICE MILL WITH A CENTRAL SQUARE COURTYARD,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,MAJID SHETH HAVELI,SPECIOUS ENTRANCE VARANDAH,,1892,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DAVJE TALAO,NATURAL LAKE,,17th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,KOTBAHAR MASJID,PRAYER HALL,,18-19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,FORT WALL,RUBBLE MASORY WALL AT DURGADI FORT,,18-19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,THAKURDWAR MANDIR,TEMPLE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SHENALE -KALA TALAO,NATURAL LAKE,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,RAMMANDIR 1,PRAYER HALL,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,RAMMANDIR 2,PRAYER HALL,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SHANKAR MANDIR,TEMPLE,,1770,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,SAHJANAND SAMADHI ,PRAYER HALL,,19th Centurey,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,KALI MASJID,PRAYER HALL,,1643,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,MAKBARA,MASJID,,1694,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,RAILWAY QUARTERS,STONE MASONRY,,1934-35,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,CHURCH,PRAYER HALL,,1918,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DNYANESHWAR PRASAD,SYMMETRICALLY PLANNED WITH COMPOUND,,1910-12,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,DAK BANGLOW,REST HOUSE,,1880-90,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,MAMLEDAR KACHERI,SINGLE STORY STRUCTURE,,1850-60,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,POLICE LINE,SIX RECTANGULAR CHAWLS,,1870,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,COURT,COURTROOM AND VARANDAH,,1878-80,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,POST OFFICE,POST OFFICE,,1880,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,CLOCK TOWER,URBAN LANDMARK,,1954-55,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,NEW VISHNU MANDIR,PRAYER HALL,,1894-95,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,GANZ -WELL,WATER SUPPLY SYSTEM ,,1770,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KALYAN-DOMBIVLI,,RAHATALE,LAKE,,Â­,Cultural_KalyanDombivli.csv,,19.2391602,73.1293186
+KOTA,Kota city,Fort wall and gates,monuments,Residence,18th century,Cultural_kota.csv,,25.1737019,75.8574194
+KOTA,North,Bade devta ji ki Haveli,Wall Paintings,"Residence , Pvt property",19th century,Cultural_kota.csv,,25.1737019,75.8574194
+KOTA,North,Art Gallery,Collection of Modern Painting,Exhibition & Drama etc.,,Cultural_kota.csv,,25.1737019,75.8574194
+Prayagraj,,Chandra Shekhar Azad Park,"The Park was the site for official ceremonies at the times of British. That were often followed by musical performances of the police band. In its very Centre, the Alfred Park houses a huge statue of George V and Victoria. Chandra Shekhar Azad,Â ",Public Park,150.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Allahabad Museum,It is one of the First Public Museum in India. ,Museum,156.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Thornhill-Mayne Memorial,The Allahabad Public Library was Founded by the Govt. of North-Western Frontier Provinces,Public Library,125.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Muir Central College,It is the Forth oldest University in India,University,132.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Senate Hall,The Senate building houses the offices of the university Administration,Education,105.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Central Library,The Central Library had its genesis in the library of Muir central College,Library,145.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Belvedere Printing Works,"The Press printed The Pioneer, a news paper of repute, and one of India's oldest English dailies",Press,143.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,K.P. Training College,The college was established in July 1951,College,123.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Holy Trinity Church,The Holy Trinity Church was built in 1839,Church,180.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Anand Bhawan,The Anand Bhawan is a historic house museum in Allahabad. Our First Primeminister born here.,Museum,90.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Khusrau Bagh,"This large walled Mughal Garden surrounding the tombs of Khusrau, The eldest soon of Jahangir.",Garden,150.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Bhardwaj Ashram,Bhardwaj Rishi also spelled Bhardwaj was one of the greatest Hindu sages Maharshi descendant of Rishi Angirasa,Ashram,200.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Pathar Girijaghar,it was the main church of Canning Town before Independence,Church,160.0,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Prayagraj,,Sangam,"Meet Three Main river of India Ganga, Yamuna and Saraswati",River,,Cultural_Prayagraj.csv,,25.4381302,81.8338005
+Satna,,Venktesh Temple ,Monument,religious ,150.0,Cultural_satna.csv,,24.6954445,80.7770348
+Thoothukudi,East Zone,Sankararameswar Koil,Temple,Public Use,500.0,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Thoothukudi,East Zone,Vaikunda Perumal Koil,Temple,Public Use,500.0,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Thoothukudi,East Zone,Snow Church,Temple,Public Use,400.0,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Thoothukudi,West Zone,,,,,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Thoothukudi,North Zone,,,,,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Thoothukudi,South Zone,,,,,Cultural_Thoothukudi.csv,,8.8457035,77.9938178
+Belgaum,North Zone,KamalBasti,monuments,old jaina temple,1204,Cultural_Belagavi.csv,,15.8572666,74.5069343
+Thane ,Thane,Central Jail,Jail,Prison,,CulturalHeritage_Thane.csv,244.0,19.1943294,72.9701779
+Thane,Thane,Kopineshwar Mandir,Temple,Place of Worship,,CulturalHeritage_Thane.csv,318.0,19.1943294,72.9701779
+Thane,Thane,St. James Church,Church,Place of Worship,,CulturalHeritage_Thane.csv,193.0,19.1943294,72.9701779
+Thane,Thane,St. John's Church,Church,Place of Worship,,CulturalHeritage_Thane.csv,436.0,19.1943294,72.9701779
+Thane,Chendani Koliwada,Datta Tample,Temple,Place of Worship,,CulturalHeritage_Thane.csv,138.0,19.1943294,72.9701779
+Thane,Thane,Synagogue,Temple,Place of Worship,,CulturalHeritage_Thane.csv,139.0,19.1943294,72.9701779
+Thane,Tembhi naka,Agrari and fuest House,Temple,Place of Worship,,CulturalHeritage_Thane.csv,238.0,19.1943294,72.9701779
+Thane,Mumbra,Mumbradevi Temple,Temple,Place of Worship,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Ghodbandar Road,Church of our Lady of Hope,Temple,Place of Worship,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Gateway Vitthal Sayanna temple,Temple,Entrance  gateway,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Kopri,Custom House,House,Vacant,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Office of the Deputy Coservator of Forest,Building,Government Office,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Anand Bharti Temple,Temple,Place of Worship,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane," Court Naka, Thane",Town Hall,Hall,Community Hall,,CulturalHeritage_Thane.csv,101.0,19.1943294,72.9701779
+Thane, Khidkali,Khidkaleshwar Temple,Temple,Place of Worship,,CulturalHeritage_Thane.csv,1200.0,19.1943294,72.9701779
+Thane,Thane,Mani Baug,House,Residential,,CulturalHeritage_Thane.csv,100.0,19.1943294,72.9701779
+Thane,Gokhle Road,Thakur Bunglow,House,Residential,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Sitaram Bhuvan,House,Vacant,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Hate Building,Building,Residential And Commmercial,,CulturalHeritage_Thane.csv,75.0,19.1943294,72.9701779
+Thane,Charai,Ann Niketan,House,Residential,,CulturalHeritage_Thane.csv,71.0,19.1943294,72.9701779
+Thane,Charai,Pimenta House,House,Residential,,CulturalHeritage_Thane.csv,88.0,19.1943294,72.9701779
+Thane,Charai,Pimenta House,House,Residence And Nursury School,,CulturalHeritage_Thane.csv,90.0,19.1943294,72.9701779
+Thane,Charai,Kaldate House,House,Residential,,CulturalHeritage_Thane.csv,123.0,19.1943294,72.9701779
+Thane,Charai,Pimenta House,House,Nursury ,,CulturalHeritage_Thane.csv,88.0,19.1943294,72.9701779
+Thane,Charai,Purihit House/Chandiwale Building,House,Residential and Shop,,CulturalHeritage_Thane.csv,93.0,19.1943294,72.9701779
+Thane,Charai,,House,Residential,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Naupada,Janki Niwas,House,Residential and Hospital,,CulturalHeritage_Thane.csv,74.0,19.1943294,72.9701779
+Thane,Naupada,Kanade Building,Building,Residential,,CulturalHeritage_Thane.csv,83.0,19.1943294,72.9701779
+Thane,Naupada,Govind Niwas,House,Residential,,CulturalHeritage_Thane.csv,87.0,19.1943294,72.9701779
+Thane,Naupada,Maydeo Building,Building,Residential,,CulturalHeritage_Thane.csv,88.0,19.1943294,72.9701779
+Thane,Naupada,Veerkar House,House,Residential,,CulturalHeritage_Thane.csv,86.0,19.1943294,72.9701779
+Thane,Naupada,Pendse Building,Building,Residential,,CulturalHeritage_Thane.csv,86.0,19.1943294,72.9701779
+Thane,Naupada,Ganga Bhauva,House,Residential,,CulturalHeritage_Thane.csv,84.0,19.1943294,72.9701779
+Thane,Uthalsar,Rodrigues Bungalow,House,Residential,,CulturalHeritage_Thane.csv,88.0,19.1943294,72.9701779
+Thane,Uthalsar,Rose Cottage,House,Residential,,CulturalHeritage_Thane.csv,86.0,19.1943294,72.9701779
+Thane,Uthalsar,Rodrigues Building,Building,Residential,,CulturalHeritage_Thane.csv,92.0,19.1943294,72.9701779
+Thane,Uthalsar,Fatima Cottage,House,Residential,,CulturalHeritage_Thane.csv,71.0,19.1943294,72.9701779
+Thane,Uthalsar,Almeida House,House,Residential,,CulturalHeritage_Thane.csv,104.0,19.1943294,72.9701779
+Thane,Uthalsar,Remedios House,House,Residential,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Kopri,Indryani,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Dhanvantri,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Vikas,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Shivgiri,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Priyadarshini,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Rajgruh,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Shivneri,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,pradnya ,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,van Bhavan,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Thane,Gokul,Bunglow,Residential,,CulturalHeritage_Thane.csv,128.0,19.1943294,72.9701779
+Thane,Thane,Ramchandra Niwas,House,Residential,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Gandhi Buildings,Building,Residential,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Bhalekar Building,Building,Residential and shops,,CulturalHeritage_Thane.csv,72.0,19.1943294,72.9701779
+Thane,Thane,Durve Buildings,Building,Residential and shops,,CulturalHeritage_Thane.csv,74.0,19.1943294,72.9701779
+Thane,Charai,Dyaneshwar Dyananmandir English Hight School,School Building,School,,CulturalHeritage_Thane.csv,96.0,19.1943294,72.9701779
+Thane,Charai,D'cunha House,House,Residential,,CulturalHeritage_Thane.csv,65.0,19.1943294,72.9701779
+Thane,Naupada,Narayan Niwas,House,Residential,,CulturalHeritage_Thane.csv,87.0,19.1943294,72.9701779
+Thane,Naupada,Shilpshri,House,Residential,,CulturalHeritage_Thane.csv,83.0,19.1943294,72.9701779
+Thane,Naupada,Vaidya Bunglow,Bunglow,Residential,,CulturalHeritage_Thane.csv,86.0,19.1943294,72.9701779
+Thane,Naupada,Gandre Wada,House,Residential,,CulturalHeritage_Thane.csv,84.0,19.1943294,72.9701779
+Thane,Kopri,Konark,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Devgiri,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Panchganga,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Kiran,Bunglow,Residential,,CulturalHeritage_Thane.csv,94.0,19.1943294,72.9701779
+Thane,Kopri,Thane Gymkhana- The Officers Club,Club House,Residential,,CulturalHeritage_Thane.csv,83.0,19.1943294,72.9701779
+Thane,Kalwa,Kalwa Bridge,Bridge,Vehicular Bridge,,CulturalHeritage_Thane.csv,118.0,19.1943294,72.9701779
+Thane,Thane,Masunda lake,Lake,Lake and refreshnal Purose,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Castle Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Kacharali Lake,Lake,Lake and Garden,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Siddeshwar Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Makhmali Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Ghosali Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Thane,Bramhala Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Rabodi,Ambe Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Wagale Estate,Rataladevi Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Kopri,Harel Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Uthalsar,Jogila Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Pokhran,Upvan lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Kolbad,Kolbad Lake,Lake,Lake,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Ghodbandar Road,Ulhas River Creek,River and part creek,River and part creek,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Yeoor,Yeoor Hills,Hill,Hill,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+Thane,Parsik Mumbra,ParsiK Hills,Hill,Hill,,CulturalHeritage_Thane.csv,,19.1943294,72.9701779
+SALEM,HASTHAMPATTY,TEMPLE,SRI SUGAVANESWARAN TEMPLE,TEMPLE,300,Cultural_Salem.csv,,11.6469616,78.2106958
+SALEM,HASTHAMPATTY,TEMPLE,KOTTAI ALAGIRINATHAR TEMPLE,TEMPLE,150,Cultural_Salem.csv,,11.6469616,78.2106958
+SALEM,HASTHAMPATTY,TEMPLE,KOTTAI MARIAMMAN TEMPLE,TEMPLE,140,Cultural_Salem.csv,,11.6469616,78.2106958
+Sagar,Sagar,Sagar Fort,Sagar Fort,Tourism,110,Cultural_Sagar.csv,,23.8083076,78.758254
+Sagar,Sagar,Lakha Banjara ,Lake,Tourism,90,Cultural_Sagar.csv,,23.8083076,78.758254
+Sagar,Sagar,Moti Mashsid,Mosque,Religious,100,Cultural_Sagar.csv,,23.8083076,78.758254
+Sagar,Sagar,Rahatgarh Fort,Fort,Tourism,150,Cultural_Sagar.csv,,23.8083076,78.758254
+Sagar,Sagar,Teen Batti,Street,Public Place,80,Cultural_Sagar.csv,,23.8083076,78.758254

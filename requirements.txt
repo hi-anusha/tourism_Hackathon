@@ -1,5 +1,10 @@
 streamlit
-pandas
-plotly
 streamlit-extras
 streamlit-option-menu
+pandas
+geopy
+altair
+plotly
+pydeck
+matplotlib
+numpy

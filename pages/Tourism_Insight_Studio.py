@@ -1,10 +1,9 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import numpy as np
 
 def render():
-    st.title("📊 Tourism Insight Studio")
+    st.title("🌧 Rain & Tourism Tracker")
     st.caption("Discover trends, anomalies, and correlations in India's tourism and climate.")
 
     # Load data
@@ -99,3 +98,6 @@ def render():
 
     st.markdown("---")
     st.caption("📌 Data Sources: Ministry of Tourism & IMD (1901–2015)")
+
+if __name__ == "__main__":
+    render()

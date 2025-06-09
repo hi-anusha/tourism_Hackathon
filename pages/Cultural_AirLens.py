@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 def render():
-    st.title("🌿 Cultural AirLens: Exploring Air Quality & Tourism Trends")
+    st.title("🌬 Pollution Lens: Exploring Air Quality & Tourism Trends")
 
     df = pd.read_csv("data/airQualityindex.csv")
     df['last_update'] = pd.to_datetime(df['last_update'], errors='coerce')
@@ -30,7 +30,7 @@ def render():
 
     st.markdown("---")
 
-    # --- 📊 Average Pollution by City ---
+    # --- Average Pollution by City ---
     st.subheader("📊 Average Pollution by City")
     grouped = latest.groupby('city')['pollutant_avg'].mean().reset_index()
     fig = px.bar(grouped.sort_values(by="pollutant_avg", ascending=False),
@@ -38,7 +38,7 @@ def render():
                  title='Average Pollutant Levels by City')
     st.plotly_chart(fig, use_container_width=True)
 
-    # --- 🌿 City-wise Pollutant Type Distribution ---
+    # ---  City-wise Pollutant Type Distribution ---
     st.subheader("🌿 City-wise Pollutant Type Distribution")
     pollutant_summary = latest.groupby(['city', 'pollutant_id'])['pollutant_avg'].mean().reset_index()
     fig2 = px.bar(pollutant_summary, x='city', y='pollutant_avg',
