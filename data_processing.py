@@ -5,7 +5,7 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
 # 1. CONFIGURATION
-BASE_DIR = os.path.dirname(_file_)
+BASE_DIR = os.path.dirname(__file__)
 DATA_DIR = os.path.join(BASE_DIR, "Cultural_Heritage_Datasets")
 OUTPUT_CSV = os.path.join(DATA_DIR, "combined_heritage_with_coords.csv")
 UNWANTED_COLS = [f"Unnamed: {i}" for i in range(6, 10)]
